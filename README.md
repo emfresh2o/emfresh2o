@@ -9,7 +9,6 @@
 - 🥅 2021 Goals: Create projects on my free time
 <br />
 <br />
----
 
 ### Connect with me:
 
