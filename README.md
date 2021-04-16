@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="emfresh2o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="emfresh2o | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="emfresh2o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](http://www.linkedin.com/in/ella-mae-freshwater)
+[<img align="left" alt="emfresh2o | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com/emfresh2o)
 <br />
 
 ---
@@ -35,7 +35,4 @@
 
 <br />
 <img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats.vercel.app/api?username=emfresh2o&show_icons=true&hide_border=true" />
-<br />
-<br />
-[linkedin]: http://www.linkedin.com/in/ella-mae-freshwater
-[twitter]: https://twitter.com/emfresh2o
+
