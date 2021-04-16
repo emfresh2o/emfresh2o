@@ -33,8 +33,9 @@
 
 ---
 
+<br />
 <img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats.vercel.app/api?username=emfresh2o&show_icons=true&hide_border=true" />
 <br />
-
+<br />
 [linkedin]: http://www.linkedin.com/in/ella-mae-freshwater
 [twitter]: https://twitter.com/emfresh2o
