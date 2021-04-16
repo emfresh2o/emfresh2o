@@ -1,11 +1,11 @@
 ### Hey 👋, I'm Ella Mae Freshwater - aka Mitch!
 
-### I'm a Software Engineer, Freelance Graphic Artist from Pittsburgh, a hobbyist photographer, and a mom of 2 furbabies.
+### I'm a Freelance Graphic Artist and Web Designer from Pittsburgh, a hobbyist photographer, and a mom of 2 furbabies.
 
 ### I started web development just a little over 4 years ago using popular web builders like WordPress and Dreamweaver but I had been reading simple codes like HTML and CSS for over 20 years. I enrolled at Lamba School because I wanted to learn how to read and write useful and functional codes using other languages.
 
 - 🌱 I’m currently learning Full-Stack Web Development
-- ⚡ Fun fact: I have a passion for learning, like arts and craft, graphic design, technology, and my latest passion is learning to code.
+- ⚡ Fun fact: I have a passion for learning, arts and crafts, graphic design, technology, and my latest is learning to write code.
 - 🥅 2021 Goals: Create projects on my free time
 <br />
 <br />
