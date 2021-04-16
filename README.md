@@ -32,6 +32,6 @@
 <br />
 <br />
 <br />
-<img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats1-emfresh2o.vercel.app/api?username=emfresh2o&show_icons=true&hide_border=true&hide_stars" />
+<img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats1-emfresh2o.vercel.app/api?username=emfresh2o&show_icons=true&hide_border=true&hide_stars=true" />
 <br />
 <br />
