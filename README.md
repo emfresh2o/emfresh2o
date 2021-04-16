@@ -32,6 +32,6 @@
 <br />
 <br />
 <br />
-<img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats-ebon-theta.vercel.app
+<img align='left' alt='emfresh2o Github Stats' src="https://github-readme-stats.vercel.app
 p/api?username=emfresh2o&show_icons=true&hide_border=true&hide=stars" />
 
