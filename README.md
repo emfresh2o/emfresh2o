@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="emfresh2o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://www.linkedin.com/in/ella-mae-freshwater)
+[<img align="left" alt="emfresh2o | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://www.linkedin.com/in/ellamaefreshwater)
 [<img align="left" alt="emfresh2o | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/emfresh2o)
 <br />
 <br />
