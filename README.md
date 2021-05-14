@@ -4,7 +4,7 @@
 
 ### I started web development just a little over 4 years ago using popular web builders like WordPress and Dreamweaver but I had been reading simple codes like HTML and CSS for over 20 years. I enrolled at Lamba School because I wanted to learn how to read and write useful,functional codes using other programming languages.
 
-- 🌱 I’m currently learning Full-Stack Web Development
+- 🌱 I’m a Full-Stack Engineer focusing on FrontEnd Development
 - ⚡ Fun fact: Passionate about arts and crafts, graphic design, technology, and my latest is learning to write code.
 - 🥅 2021 Goals: Create projects on my free time
 <br />
